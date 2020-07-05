@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/29 22:04:32.000.669,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/29 22:10:28.000.618,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 12:12:25.000.232,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 12:25:16.000.495,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 12:44:31.000.009,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 16:21:22.000.227,=emsserverapi.dcp</Transaction>
+    <Transaction>2020/07/03 16:21:22.000.321,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 16:43:29.000.899,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 16:43:29.000.759,=emsserverapi.dcp</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.581,=FireDAC.dcp</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.487,=dbrtl.dcp</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.550,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.519,=emsserverresource.dcp</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.565,=FireDACCommon.dcp</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.753,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.628,=FireDACIBDriver.dcp</Transaction>
+    <Transaction>2020/07/03 16:54:03.000.409,=emsserverapi.dcp</Transaction>
+    <Transaction>2020/07/03 17:06:07.000.734,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Thiago\Desktop\DVD\unit1.pas</Transaction>
+    <Transaction>2020/07/03 17:06:07.000.734,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Thiago\Desktop\DVD\unit1.dfm</Transaction>
+    <Transaction>2020/07/03 17:06:16.000.009,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Thiago\Desktop\DVD\prjRadServer.dproj</Transaction>
+    <Transaction>2020/07/03 17:18:04.429,=C:\Users\Thiago\Desktop\DVD\Unit2.pas</Transaction>
+    <Transaction>2020/07/03 17:18:26.030,=fmx.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

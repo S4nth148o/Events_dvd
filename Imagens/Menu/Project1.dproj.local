@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/29 00:14:03.000.962,=emsserverapi.dcp</Transaction>
+    <Transaction>2020/02/29 00:14:04.000.208,=C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/01 13:23:44.000.090,=emsserverresource.dcp</Transaction>
+    <Transaction>2020/03/01 13:23:44.000.092,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2020/03/01 13:23:44.000.088,=dbrtl.dcp</Transaction>
+    <Transaction>2020/03/01 13:23:44.000.114,=C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/01 13:23:44.000.096,=FireDAC.dcp</Transaction>
+    <Transaction>2020/03/01 13:23:44.000.094,=FireDACCommon.dcp</Transaction>
+    <Transaction>2020/03/01 13:23:44.000.086,=emsserverapi.dcp</Transaction>
+    <Transaction>2020/03/01 13:44:53.000.807,=C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/09 00:48:19.000.328,=C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/09 01:17:23.000.872,C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Menu\Unit1.fmx</Transaction>
+    <Transaction>2020/03/09 01:17:23.000.872,C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Menu\Unit1.pas</Transaction>
+    <Transaction>2020/03/09 01:17:26.000.964,C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\DevOps\Documents\Embarcadero\Studio\Projects\Menu\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>  <PmacOS iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
